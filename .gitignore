@@ -1,0 +1,5 @@
+scripts/.vscode/settings.json
+workspace.code-workspace
+
+scripts/data/*.*
+scripts/output/*.*
